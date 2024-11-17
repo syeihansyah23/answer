@@ -1,0 +1,104 @@
+{
+	"tomarket": {
+		"youtube": "9,4,12"
+	},
+	"seed": {
+		"youtube": {
+			"Learn Blockchain in 3 mins": "Blockchain",
+			"Crypto vs Blockchain?": "Cryptocurrency",
+			"#3 Hot vs Cold Wallet": "Wallet",
+			"#4 What is Airdrop?": "Airdrop",
+			"#5 Coin vs Token": "TOKENS",
+			"#6 What is TON?": "Ton",
+			"#7 News affecting BTC price": "BTCTOTHEMOON",
+			"#8 On-chain vs Off-chain": "TRANSACTION",
+			"#9 CEX vs DEX": "OKXEED",
+			"#10 Bullish and Bearish": "BullRun",
+			"#11 Pre-market Explained": "BRESEED",
+			"#12 What is NFT?": "GETGEMS"
+		}
+	},
+	"blum": {
+		"youtube": {
+			"How to Analyze Crypto?": "VALUE",
+			"Forks Explained": "GO GET",
+			"Secure your Crypto!": "BEST PROJECT EVER",
+			"Navigating Crypto": "HEYBLUM",
+			"What are Telegram Mini Apps?": "CRYPTOBLUM",
+			"Say No to Rug Pull!": "SUPERBLUM",
+			"Liquidity Pools Guide": "BLUMERSSS",
+			"What Are AMMs?": "CRYPTOSMART",
+			"$2.5M+ DOGS Airdrop": "HAPPYDOGS",
+			"Doxxing? What's that?": "NODOXXING",
+			"Pre-Market Trading?": "WOWBLUM",
+			"Play track \u0026 type track name": "Blum - Big City Life",
+			"How to Memecoin?": "MEMEBLUM",
+			"Token Burning: How & Why?": "ONFIRE",
+			"Bitcoin Rainbow Chart?": "SOBLUM",
+			"Crypto Terms. Part 1": "BLUMEXPLORER",
+			"How to trade Perps?": "CRYPTOFAN",
+			"Sharding Explained:": "BLUMTASTIC",
+			"DeFi Explained": "BLUMFORCE",
+			"How To Find Altcoins?": "ULTRABLUM",
+			"DeFi Risks: Key Insights": "BLUMHELPS",
+			"Pumptober Special": "PUMPIT",
+			"Choosing a Crypto Exchange": "CRYPTOZONE",
+			"Crypto Slang. Part 1": "BLUMSTORM",
+			"Crypto Slang. Part 2": "FOMOOO",
+			"What is On-chain Analysis?": "BLUMEXTRA"
+		}
+	},
+	"timefarm": {
+		"daily": "",
+		"youtube": {}
+	},
+	"plpa": {
+		"tasks": [
+			{
+				"type": 2,
+				"name": "Follow Twitter @PALAPA",
+				"reward": 100
+			},
+			{
+				"type": 3,
+				"name": "Join TG Community PALAPA",
+				"reward": 100
+			},
+			{
+				"type": 4,
+				"name": "Follow Twitter @Bittime",
+				"reward": 100
+			},
+			{
+				"type": 5,
+				"name": "Join TG Community Bittime",
+				"reward": 100
+			},
+			{
+				"type": 6,
+				"name": "Follow Instagram PALAPA",
+				"reward": 100
+			},
+			{
+				"type": 7,
+				"name": "Follow Instagram Bittime",
+				"reward": 100
+			},
+			{
+				"type": 10,
+				"name": "Join CATID PAWS Channel",
+				"reward": 200
+			},
+			{
+				"type": 11,
+				"name": "Play CATID PAWS",
+				"reward": 200
+			},
+			{
+				"type": 12,
+				"name": "Join PLPA Channel",
+				"reward": 100
+			}
+		]
+    }
+}
